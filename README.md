@@ -1,3 +1,3 @@
 # User Management CRUD Using Java
 
-## API Documentation available at http://localhost:8080/swagger-ui/
+## API Documentation will be accessible after app start on  http://localhost:8080
